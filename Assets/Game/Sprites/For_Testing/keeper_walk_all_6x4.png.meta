@@ -1,0 +1,669 @@
+fileFormatVersion: 2
+guid: 6d2c1c0739247ff4db5b30bcc6b67db2
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: keeper_walk_all_6x4_0
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1577
+        width: 275
+        height: 441
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82390ad69235f9941bb30fc32da82c8b
+      internalID: 58132798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keeper_walk_all_6x4_1
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 1580
+        width: 274
+        height: 436
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d741f666c2100304898d5cff2332c661
+      internalID: -1154593049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keeper_walk_all_6x4_2
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 1581
+        width: 275
+        height: 437
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2833c3dfd00113a42b7adb8ca3bcbfc2
+      internalID: -1502360193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keeper_walk_all_6x4_3
+      rect:
+        serializedVersion: 2
+        x: 1662
+        y: 1583
+        width: 272
+        height: 436
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f164a8561f634c43a425ec1eb33a1d3
+      internalID: 44909730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keeper_walk_all_6x4_4
+      rect:
+        serializedVersion: 2
+        x: 2175
+        y: 1580
+        width: 278
+        height: 436
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9dd5fbdc95c24544bed159fd204daf8
+      internalID: 979227964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keeper_walk_all_6x4_5
+      rect:
+        serializedVersion: 2
+        x: 2685
+        y: 1586
+        width: 280
+        height: 433
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34a2eda2f8f2a1848b6fecdc240fd4bb
+      internalID: 175729010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keeper_walk_all_6x4_6
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 1064
+        width: 270
+        height: 442
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0720a7de352bcab449d91511312dc08f
+      internalID: 454323684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keeper_walk_all_6x4_7
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 1064
+        width: 268
+        height: 441
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 420307a881a997b4788357c2f73a2955
+      internalID: -2066382880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keeper_walk_all_6x4_8
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 1070
+        width: 268
+        height: 436
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84001db2496a5364393a7e92f9bb8de2
+      internalID: -1479096308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keeper_walk_all_6x4_9
+      rect:
+        serializedVersion: 2
+        x: 1659
+        y: 1070
+        width: 269
+        height: 436
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b006e5873fed41647a8880a4c69996d7
+      internalID: 1500253059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keeper_walk_all_6x4_10
+      rect:
+        serializedVersion: 2
+        x: 2172
+        y: 1071
+        width: 266
+        height: 433
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56f4f272df0143b4bb1854349954d1d9
+      internalID: -1399491022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keeper_walk_all_6x4_11
+      rect:
+        serializedVersion: 2
+        x: 2679
+        y: 1071
+        width: 273
+        height: 435
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee5ee76d41d1a064bb43e2f9dfa16fb0
+      internalID: 1341741392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keeper_walk_all_6x4_12
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 550
+        width: 275
+        height: 445
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 831bbf1b74e5aa14da2cdceca7de0533
+      internalID: -1867811748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keeper_walk_all_6x4_13
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 548
+        width: 273
+        height: 445
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb913516fc7291645a9a09b84bcef376
+      internalID: 2100634094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keeper_walk_all_6x4_14
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 557
+        width: 271
+        height: 438
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd87f33f62eb28c46b968d2aa9a122ad
+      internalID: 1693451137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keeper_walk_all_6x4_15
+      rect:
+        serializedVersion: 2
+        x: 1642
+        y: 567
+        width: 284
+        height: 428
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 169607bcd2d059d488449404e3af1fce
+      internalID: -2019721962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keeper_walk_all_6x4_16
+      rect:
+        serializedVersion: 2
+        x: 2169
+        y: 556
+        width: 270
+        height: 437
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7ccae1ffa9ab8e41abc07e3276be0ba
+      internalID: 1476293967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keeper_walk_all_6x4_17
+      rect:
+        serializedVersion: 2
+        x: 2682
+        y: 561
+        width: 272
+        height: 434
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b10ec4afb955ddb49ba1daddf67432f9
+      internalID: 1905411974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keeper_walk_all_6x4_18
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 38
+        width: 251
+        height: 445
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2db3235287fef2d478a325293d0e6bb7
+      internalID: -1084794086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keeper_walk_all_6x4_19
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 74
+        width: 248
+        height: 406
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e707ea8d4030dd47ae66953a6ab194c
+      internalID: -1504527876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keeper_walk_all_6x4_20
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 41
+        width: 251
+        height: 442
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00e98e26c7bc9c847aaf6384e40fde4c
+      internalID: 1986777889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keeper_walk_all_6x4_21
+      rect:
+        serializedVersion: 2
+        x: 1657
+        y: 36
+        width: 253
+        height: 447
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deffcfe9bb55fa0479e876ed93b3cc15
+      internalID: 1038414272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keeper_walk_all_6x4_22
+      rect:
+        serializedVersion: 2
+        x: 2186
+        y: 64
+        width: 232
+        height: 417
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e915f16f9871af34a9fecd973bdaf277
+      internalID: -2141197642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keeper_walk_all_6x4_23
+      rect:
+        serializedVersion: 2
+        x: 2695
+        y: 50
+        width: 243
+        height: 433
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66707aa595587e54ca3c5721e60535fc
+      internalID: 44566293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 2a7c4057c301f4549921d6b389e539fa
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      keeper_walk_all_6x4_0: 58132798
+      keeper_walk_all_6x4_1: -1154593049
+      keeper_walk_all_6x4_10: -1399491022
+      keeper_walk_all_6x4_11: 1341741392
+      keeper_walk_all_6x4_12: -1867811748
+      keeper_walk_all_6x4_13: 2100634094
+      keeper_walk_all_6x4_14: 1693451137
+      keeper_walk_all_6x4_15: -2019721962
+      keeper_walk_all_6x4_16: 1476293967
+      keeper_walk_all_6x4_17: 1905411974
+      keeper_walk_all_6x4_18: -1084794086
+      keeper_walk_all_6x4_19: -1504527876
+      keeper_walk_all_6x4_2: -1502360193
+      keeper_walk_all_6x4_20: 1986777889
+      keeper_walk_all_6x4_21: 1038414272
+      keeper_walk_all_6x4_22: -2141197642
+      keeper_walk_all_6x4_23: 44566293
+      keeper_walk_all_6x4_3: 44909730
+      keeper_walk_all_6x4_4: 979227964
+      keeper_walk_all_6x4_5: 175729010
+      keeper_walk_all_6x4_6: 454323684
+      keeper_walk_all_6x4_7: -2066382880
+      keeper_walk_all_6x4_8: -1479096308
+      keeper_walk_all_6x4_9: 1500253059
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

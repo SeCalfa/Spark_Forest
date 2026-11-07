@@ -1,0 +1,496 @@
+fileFormatVersion: 2
+guid: dede10801dd1f25499fb0ee3e134d31b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: forest_corrupted_4x4_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f87fad6f2fe7a247a28011b0e2c68fc
+      internalID: 416735250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_corrupted_4x4_1
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 1624
+        width: 476
+        height: 336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92dde41c636805b42aa3af571464467a
+      internalID: 1974424288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_corrupted_4x4_4
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 1554
+        width: 329
+        height: 476
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b76c190b729108e4d88d59bb746c1a31
+      internalID: -1313464202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_corrupted_4x4_5
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 1724
+        width: 193
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fea2cadbf40e1754ea2fd901a458cd64
+      internalID: -1765620896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_corrupted_4x4_14
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1084
+        width: 316
+        height: 433
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4739f3615fe7bc14eb983a5ec1a3b44a
+      internalID: 1211658523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_corrupted_4x4_15
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 1085
+        width: 427
+        height: 427
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 051a944b3d04b414d92e9e506d6664c5
+      internalID: 2042435172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_corrupted_4x4_16
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 1084
+        width: 274
+        height: 417
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c4b57ba55bbab947b159c9ab2387be1
+      internalID: 1953519336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_corrupted_4x4_17
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 1086
+        width: 258
+        height: 204
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e78494a08d085a04ebcf0031e84f52f6
+      internalID: 1468927670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_corrupted_4x4_18
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 574
+        width: 204
+        height: 173
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df339329d0b91594785381ca80cbb9de
+      internalID: -1677858449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_corrupted_4x4_19
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 574
+        width: 132
+        height: 107
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 432286fc6ede7a840afad1bb75882377
+      internalID: 2005578213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_corrupted_4x4_20
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 574
+        width: 244
+        height: 184
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 039d6220eb373094196e18112b784ef6
+      internalID: -1950898039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_corrupted_4x4_21
+      rect:
+        serializedVersion: 2
+        x: 1721
+        y: 574
+        width: 142
+        height: 87
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88554249b9cf8a3478d05247877799a1
+      internalID: 1231281640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_corrupted_4x4_22
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 62
+        width: 132
+        height: 212
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 871ca66c6f13d26428acf872b2f62758
+      internalID: 522807727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_corrupted_4x4_23
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 62
+        width: 234
+        height: 145
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ddb1d6139e4e634384de4c365f0a623
+      internalID: -1557250056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_corrupted_4x4_25
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 61
+        width: 303
+        height: 162
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e84fbea830244ac48889936c50a6b244
+      internalID: -1810831136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_corrupted_4x4_26
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 61
+        width: 324
+        height: 312
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20f2e918d0ebcf04389d4742705d21a3
+      internalID: 486952207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 9b7818540fe397d40b358b5c7342703b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      forest_corrupted_4x4_0: 416735250
+      forest_corrupted_4x4_1: 1974424288
+      forest_corrupted_4x4_10: 1752575843
+      forest_corrupted_4x4_11: -1519446224
+      forest_corrupted_4x4_12: 1888166541
+      forest_corrupted_4x4_13: 893676092
+      forest_corrupted_4x4_14: 1211658523
+      forest_corrupted_4x4_15: 2042435172
+      forest_corrupted_4x4_16: 1953519336
+      forest_corrupted_4x4_17: 1468927670
+      forest_corrupted_4x4_18: -1677858449
+      forest_corrupted_4x4_19: 2005578213
+      forest_corrupted_4x4_2: 63772947
+      forest_corrupted_4x4_20: -1950898039
+      forest_corrupted_4x4_21: 1231281640
+      forest_corrupted_4x4_22: 522807727
+      forest_corrupted_4x4_23: -1557250056
+      forest_corrupted_4x4_24: -2136087571
+      forest_corrupted_4x4_25: -1810831136
+      forest_corrupted_4x4_26: 486952207
+      forest_corrupted_4x4_3: 814717149
+      forest_corrupted_4x4_4: -1313464202
+      forest_corrupted_4x4_5: -1765620896
+      forest_corrupted_4x4_6: -722479582
+      forest_corrupted_4x4_7: -371033438
+      forest_corrupted_4x4_8: 312547534
+      forest_corrupted_4x4_9: 119783486
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
