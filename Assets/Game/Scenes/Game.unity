@@ -3061,7 +3061,7 @@ MonoBehaviour:
   m_VolumeTrigger: {fileID: 0}
   m_VolumeFrameworkUpdateModeOption: 2
   m_RenderPostProcessing: 1
-  m_Antialiasing: 0
+  m_Antialiasing: 2
   m_AntialiasingQuality: 2
   m_StopNaN: 0
   m_Dithering: 0
@@ -5588,9 +5588,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_IsGlobal: 1
-  priority: 0
+  priority: 10
   blendDistance: 0
-  weight: 0
+  weight: 1
   sharedProfile: {fileID: 11400000, guid: e4534965cec38814293552f2a0c0e4b6, type: 2}
 --- !u!1 &618491548
 GameObject:
@@ -7395,6 +7395,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 931871848}
+  - component: {fileID: 931871849}
   m_Layer: 0
   m_Name: PostProcessing
   m_TagString: Untagged
@@ -7419,6 +7420,20 @@ Transform:
   - {fileID: 1815211112}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &931871849
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 931871847}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3b6998d36ef43994e8d953b593732b29, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  shadowVolume: {fileID: 1815211113}
+  distortionMaterial: {fileID: 2100000, guid: a37b5ad0b758d1046bd00d6fcc4fdc02, type: 2}
 --- !u!1 &940476175
 GameObject:
   m_ObjectHideFlags: 0
@@ -13974,7 +13989,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_IsGlobal: 1
-  priority: 100
+  priority: 10
   blendDistance: 0
   weight: 1
   sharedProfile: {fileID: 11400000, guid: 71012a1cbd908c742a9892ba53a8f7fb, type: 2}
